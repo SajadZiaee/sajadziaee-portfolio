@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SajadZiaee/sajadziaee-portfolio/static/css/main.7e275c6a.css",
+    "main.js": "/SajadZiaee/sajadziaee-portfolio/static/js/main.a5a114a5.js",
+    "index.html": "/SajadZiaee/sajadziaee-portfolio/index.html",
+    "main.7e275c6a.css.map": "/SajadZiaee/sajadziaee-portfolio/static/css/main.7e275c6a.css.map",
+    "main.a5a114a5.js.map": "/SajadZiaee/sajadziaee-portfolio/static/js/main.a5a114a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e275c6a.css",
+    "static/js/main.a5a114a5.js"
+  ]
+}
