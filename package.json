@@ -1,6 +1,6 @@
 {
-  "homepage": "https://deniserdogan.github.io/denisdev",
-  "name": "denisdev",
+  "homepage": "https://sajadziaee.github.io/sajadziaee-portfolio/",
+  "name": "sajadziaee",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -25,8 +25,6 @@
     "web-vitals": "^0.2.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,10 +32,8 @@
     "lint": "prettier --check .",
     "format": "prettier --write .",
     "prepare": "husky install",
-    "pre-commit": "yarn format && git add -A ."
-  },
-  "eslintConfig": {
-    "extends": "react-app"
+    "predeploy": "npm run build",
+     "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -52,7 +48,6 @@
     ]
   },
   "description": "Personal site created with React and Chakra UI",
-  "repository": "https://github.com/deniserdogan/denisdev.git",
   "author": "Deniz Erdogan",
   "license": "MIT",
   "devDependencies": {
